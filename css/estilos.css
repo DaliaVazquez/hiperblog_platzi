@@ -1,5 +1,5 @@
 body{
-    color: red;
+    columns: #333333;
     text-align: center;
     font-family: 'Arial';
     font-size: 16 px;
@@ -31,4 +31,10 @@ body{
 }
 #containes h1{
     font-size: 20px;
+}
+#footer{
+    background: #777777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
